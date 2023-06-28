@@ -47,3 +47,23 @@ dvc dag
 dvc add data/
 '''
 
+'''
+dvc add <file name>
+'''
+
+'''
+git add <file_names> && git commit -m "file added successfully"
+'''
+
+'''
+dvc remote add myremote <any_remote_location>
+'''
+
+'''
+dvc push
+'''
+
+'''
+https://dvc.org/doc
+'''
+
